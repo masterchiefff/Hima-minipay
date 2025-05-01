@@ -21,7 +21,7 @@ export function ConnectWallet({ onConnect }: ConnectWalletProps) {
         </div>
 
         <h1 className="text-2xl font-bold mb-2">Hima Insurance</h1>
-        <p className="text-gray-400 mb-8">Quick, on-chain protection for Africa's gig workers</p>
+        <p className="text-gray-400 mb-8">Quick, on-chain protection for Africa&apos;s gig workers</p>
 
         <div className="space-y-4">
           <div className="bg-black/60 backdrop-blur-sm border border-gray-800 rounded-xl p-6">
@@ -40,7 +40,7 @@ export function ConnectWallet({ onConnect }: ConnectWalletProps) {
           </div>
 
           <div className="text-xs text-gray-500">
-            By connecting, you agree to Hima's Terms of Service and Privacy Policy
+            By connecting, you agree to Hima&apos;s Terms of Service and Privacy Policy
           </div>
         </div>
       </div>

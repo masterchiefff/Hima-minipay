@@ -151,7 +151,7 @@ export default function CreatePolicyPage() {
                     <h3 className="text-sm font-medium">Family Insurance</h3>
                   </div>
                   <p className="text-xs text-gray-400 mb-3">
-                    Comprehensive coverage for your entire family's health needs.
+                    Comprehensive coverage for your entire family&apos;s health needs.
                   </p>
                   <div className="space-y-2 text-xs">
                     <div className="flex justify-between">
@@ -305,7 +305,7 @@ export default function CreatePolicyPage() {
                     />
                   </div>
                   <div>
-                    <Label htmlFor="childrenAges">Children's Ages (comma separated)</Label>
+                    <Label htmlFor="childrenAges">Children&apos;s Ages (comma separated)</Label>
                     <Input
                       id="childrenAges"
                       className="bg-gray-900/70 border-gray-700 mt-1"
